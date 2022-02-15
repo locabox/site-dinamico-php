@@ -10,7 +10,7 @@ Lembrando, este arquivo deve estar contido dentro da pasta pública do servidor 
 
 Em seguida, para efeitos de visualização da página, podemos adicionar um estilo básico em nosso documento HTML. Com isso, teremos uma página visualmente mais atraente e organizada.
 
-Entretanto, como o foco não é explorar estilos CSS, utilizaremos uma biblioteca pronta que possui a estilização já desenvolvida e só precisaremos incluir as classes da biblioteca em nosso HTML. Faremos isso com o Bootstrap:
+Entretanto, como o foco não é explorar estilos CSS, utilizaremos uma biblioteca pronta que possui a estilização já desenvolvida e só precisaremos incluir as classes da biblioteca em nosso HTML. Faremos isso com o Bootstrap v4.6x:
 
 Adicione essa linha de codigo entre as tags head e /head:
 ~~~php
@@ -34,7 +34,7 @@ Com esta pequena modificação **(de .html para .php)**, agora é possível escr
 Para criar um script PHP, devemos usar os delimitadores <?php para abrir e ?> para fechar
 
 ## Agora mãos a obra
-- Contudo que foi explicado anteriormente, contrua um formulário onde você possa receber o nome de um produto.
+- Contudo que foi explicado anteriormente, construa um formulário onde você possa receber o nome de um produto.
 - Em seguida imprima na tela o nome desse produto com personalizações que dezejar incluindo a cor vermelha para o texto.
 
 ## Concluiu essa etapa? siga para a proxima:
